@@ -1,0 +1,45 @@
+p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+
+.formular {
+    width: 700px;
+    height: 500px;
+    margin: 50px 200px 220px 200px;
+    border: 1px solid #3B3838;
+    background-color: white;
+}
+.left {
+    padding: 0 50px;
+    width: 250px;
+    float: left;
+}
+.right {
+    padding: 0 50px;
+    width: 250px;
+    float: left;
+}
+
+button {
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    font-family: Ubuntu;
+    font-size: 20px;
+    background-color: #00cc00;
+    color: black;
+    border: none;
+}
+
+.search_button {
+    margin: 50px auto;
+    padding: 20px;
+    width: 200px;
+    background-color: #00cc00;
+    border-radius: 10px;
+}

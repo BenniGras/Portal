@@ -1,0 +1,41 @@
+.filter {
+    padding-left: 50px;
+    width: 300px;
+    height: 100%;
+    background-color: white;
+}
+select {
+    height: 40px;
+    width: 250px;
+    border: 1px solid #3B3838;
+    font-size: 20px;
+    font-family: Ubuntu;
+    margin: 0px auto 00px auto;
+    display: inline;
+    padding-left: 10px;
+}
+input {
+    width: 237px;
+    height: 36px;
+    border: 1px solid #3B3838;
+    font-size: 20px;
+    font-family: Ubuntu;
+    margin: 0px auto 0px auto;
+    display: inline;
+    padding-left: 10px;
+}
+.checkbox {
+    width: auto;
+    display: inline;
+    margin: 5px;
+    font-size: 20px;
+}
+h3{
+    font-family: Ubuntu;
+    font-size: 25px;
+}
+h4 {
+    font-family: Ubuntu;
+    font-size: 20px;
+    margin: 20px 0px 5px 5px;
+}

@@ -1,0 +1,65 @@
+h2{
+    font-size: 34px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 26px;
+}
+button{
+    width: 350px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: Ubuntu;
+    font-size: 20px;
+    background-color: #00cc00;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 50px;
+}
+.flex{
+    display: flex;
+}
+.formular{
+    width: 1000px;
+    height: auto;
+    margin: 100px auto 20px auto;
+    border: 1px solid #3B3838;
+    padding: 50px 100px;
+    background-color: white;
+}
+.content{
+    width: 1000px;
+}
+.image {
+    width: 600px;
+    height: 450px;
+}
+.seller{
+    width: 298px;
+    height: 250px;
+    margin-left: 50px;
+    padding: 25px;
+    border: 1px solid #3B3838;
+}
+.table{
+    border-collapse: collapse;
+}
+.table th{
+    width: 200px;
+    text-align: left;
+    font-weight: normal;
+    border: 1px solid #3B3838;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.table td{
+    width: 800px;
+    border: 1px solid #3B3838;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+}

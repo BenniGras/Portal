@@ -1,0 +1,39 @@
+.form {
+    margin: 120px auto;
+    width: 600px;
+    height: 400px;
+    border: 1px solid #3B3838;
+    background-color: white;
+}
+.content{
+    margin: 50px;
+    width: 500px;
+    height: 250px;
+}
+.links{
+    width: 600px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.link{
+    width: 50%;
+    height: 100px;
+    padding: 0px;
+    flex-shrink: 1;
+}
+.button_registrieren {
+    padding-top: 1px;
+    text-align: center;
+    border-bottom: 1px solid #3B3838;
+    border-left: 1px solid #3B3838;
+    background-color: #333;
+    color: #FFFFFF;
+}
+.button_anmelden {
+    padding-top: 1px;
+    text-align: center;
+}
+.button_registrieren:hover {
+  background-color: #555;
+}

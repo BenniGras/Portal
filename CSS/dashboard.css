@@ -1,0 +1,31 @@
+body{
+    background-attachment: fixed;
+    height: 100%;
+    font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #000000;
+    margin: 0px;
+    background-image: none;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+.nav_links{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-right: 1px solid gray;
+}
+a{
+    padding: 15px;
+    margin: 5px;
+}
+.content{
+    width: 800px;
+    margin: auto;
+}
+.label{
+    display: inline-block;
+    width: 300px;
+}

@@ -1,0 +1,26 @@
+html {
+    font-size: 1.0rem;
+}
+
+.form-container {
+    width: 100%;
+    display: flex;
+}
+
+.form {
+    border: 1px solid #3B3838;
+    padding: 1rem 1rem;
+    margin: 6.25rem auto;
+    flex: 0 1 37.5rem;
+}
+
+.input-container,.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.input,.button {
+    flex: 0 1 31.25rem;
+    box-sizing: border-box;
+}
